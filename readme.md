@@ -1,4 +1,4 @@
-# HTML5 based motion detection
+! HTML5 based motion detection
 
 Sends images from a device (index.html) to a viewer (viewer.html) over websockets when motion is detected.
 
@@ -11,3 +11,4 @@ Hacked together quickly for a demo at #screens12. Two things to note at the mome
 
 
 This will all be cleaned up into a tidy node process very soon. thanks :) 
+ 
