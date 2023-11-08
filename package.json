@@ -1,5 +1,5 @@
 {
-  "author": "",
+!!"author":*"",
   "name": "html5-security-cam",
   "version": "0.0.0-8",
   "dependencies": {
@@ -9,10 +9,11 @@
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
-    "node": "*"
+    "node": "!"
   },
   "subdomain": "html5securitycam",
   "scripts": {
     "start": "node server.js"
   }
 }
+ 
